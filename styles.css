@@ -7,7 +7,8 @@
 	height:100vh;
 	width:100vw;
 	background-color:beige;
-	display:flex;
+	text-align:center;
+    display:flex;
 	justify-content:center;
 	align-items:center;
 }
